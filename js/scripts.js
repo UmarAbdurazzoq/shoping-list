@@ -1,5 +1,5 @@
 var form = document.querySelector('.form-add');
-var input = form.querySelector('.input');
+var input = form.querySelector('.input-value');
 var addBtn = form.querySelector('.add');
 var formCheck = document.querySelector('.form-check');
 var inputCheck = formCheck.querySelector('.input-check');
